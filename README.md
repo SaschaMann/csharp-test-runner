@@ -7,6 +7,7 @@ This repository contains the C# test runner, which implements the [test runner i
 
 ## Running the tests
 
+
 To run a solution's tests, follow these steps:
 
 1. Open a command prompt in the root directory.
